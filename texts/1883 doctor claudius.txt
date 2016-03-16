@@ -94,14 +94,14 @@ volumes he immediately required for his work. A rare copy of _Sextus
 Empiricus_, with the Greek and Latin side by side, lay open on an
 inclined desk at one end, and the table was strewn with papers, on which
 were roughly drawn a variety of mathematical figures, margined all
-around with odd-looking equations and algebraically-expressed formulæ.
+around with odd-looking equations and algebraically-expressed formulÃ¦.
 Well-thumbed volumes of mathematical works in English, German, and
 French, lay about, opened in various places, and there was a cracked old
 plate, half full of tobacco ashes and the ends of cigarettes. The
 remaining furniture of the room was simple and poor: a neat camp
 bedstead, a boot-jack, and a round mirror, not more than four inches in
 diameter; a tin tub and an iron washing-stand; a much battered old
-"schläger," with the colours at the hilt all in rags, hung over the iron
+"schlÃ¤ger," with the colours at the hilt all in rags, hung over the iron
 stove; and that was all the room contained besides books and the
 working-table and chair. It would be impossible to live more simply, and
 yet everything was neat and clean, and stamped, too, with a certain
@@ -141,7 +141,7 @@ an evening, when he sallied forth from his solitude, wondered at his way
 of living; for Dr. Claudius was not poor, as incomes go in South
 Germany. He had a modest competence of his own to begin with, and his
 lectures brought him in something, so that he might have had a couple of
-rooms "_parterre_"--as the Germans call the _rez-de-chaussée_--and could
+rooms "_parterre_"--as the Germans call the _rez-de-chaussÃ©e_--and could
 have been as comfortable as he pleased. But no one ever attempted to
 account for Dr. Claudius at all. He was a credit to the University,
 where first-rate men are scarce,--for Heidelberg is not a seat of very
@@ -153,7 +153,7 @@ said to Dr. Wurst over the second "schoppen" every night for a year
 past.
 
 But Claudius did not marry, nor did he even allow his blue eyes to rest
-contemplatively on black-eyed Fräulein Wiener, or red-cheeked Fräulein
+contemplatively on black-eyed FrÃ¤ulein Wiener, or red-cheeked FrÃ¤ulein
 Wurst. He would indeed occasionally accept an invitation to drink coffee
 at his colleagues' houses, but his talk was little and his manner a
 placid blank. He had been wild enough ten years before, when his yellow
@@ -175,7 +175,7 @@ little for the national enmities of Scandinavians and Germans, and, like
 all foreigners who behave sensibly, he was received with open arms by
 the enthusiastic students, who looked upon him as a sort of typical
 Goth, the prototype of the Teutonic races. And when they found how
-readily he learned to handle schläger and sabre, and that, like a true
+readily he learned to handle schlÃ¤ger and sabre, and that, like a true
 son of Odin, he could drain the great horn of brown ale at a draught,
 and laugh through the foam on his yellow beard, he became to them the
 embodiment of the student as he should be. But there was little of all
@@ -353,7 +353,7 @@ evening; he would fetch himself something to eat and drink, and be
 quiet. So he slung a heavy stone jug on his arm, and, turning his lamp
 down to save the oil, trudged down the stairs and out into the street.
 He made for the little inn at the corner, and while the fat old landlord
-filled his jug with the best Markgräfler, he himself picked out a couple
+filled his jug with the best MarkgrÃ¤fler, he himself picked out a couple
 of smoked sausages from the great pile on the counter, and wrapping them
 up with half a dozen pretzels, transferred the package to his capacious
 pocket. Then he took the jug from the innkeeper, and having paid half a
@@ -486,7 +486,7 @@ turned naturally upwards towards the overhanging castle where he was
 sure of a breeze and plenty of shade; and as he passed the famous old
 "Wirthshaus zum faulen Pelz" on the ascent, he turned in and took a
 drink of the cool clear ale and a pretzel, an operation termed in
-Germany the "Frühschoppen," or "early glass," and as universal a
+Germany the "FrÃ¼hschoppen," or "early glass," and as universal a
 practice as the early tea in the tropics before the sun is up, or the
 "vermouth" of the Italian before the evening meal. Having offered this
 customary libation to the summer deities, the Doctor leisurely climbed
@@ -506,7 +506,7 @@ small birds chirped lazily now and then in desultory conversation, too
 hot to hop or fly; and a small lizard lay along the wall dazed and
 stupid in the noontide heat. The _genius loci_ was doubtless cooling
 himself in the retirement of some luxurious hole among the ruins, and
-the dwarf Perkéo, famous in song and toast, had the best of it that day
+the dwarf PerkÃ©o, famous in song and toast, had the best of it that day
 down in the cellar by the great tun.
 
 But Claudius was of a tough nature, and minded neither heat nor cold;
@@ -1114,7 +1114,7 @@ far.
 Having successfully accomplished the business of dining, Mr. Barker
 promised to return in an hour, and sallied out to find the British
 aristocracy, whom he knew. The British aristocracy was taking his coffee
-in solitude at the principal _café_, and hailed Mr. Barker's advent with
+in solitude at the principal _cafÃ©_, and hailed Mr. Barker's advent with
 considerable interest, for they had tastes in common.
 
 "How are you, Duke?"
@@ -1286,7 +1286,7 @@ civilised we will have him to dinner."
 
 "By all means," said Miss Skeat with alacrity. She liked intelligent
 society, and the Countess had of late indulged in a rather prolonged fit
-of solitude. Miss Skeat took the last novel--one of Tourguéneff's--from
+of solitude. Miss Skeat took the last novel--one of TourguÃ©neff's--from
 the table and, armed with a paper-cutter, began to read to her
 ladyship.
 
@@ -1875,7 +1875,7 @@ have them to dinner. When shall it be?"
 "To-morrow is too soon. Say Thursday, since you ask me," said Miss
 Skeat.
 
-"Very well. Shall we read a little?" And Tourguéneff was put into
+"Very well. Shall we read a little?" And TourguÃ©neff was put into
 requisition.
 
 It was late in the afternoon when the Countess's phaeton, black horses,
@@ -2039,7 +2039,7 @@ The time seemed long to Claudius, though he went in the meanwhile with
 Barker and the British aristocracy to certain races. He rather liked the
 racing, though he would not bet. The Duke lost some money, and Barker
 won a few hundred francs from a Russian acquaintance. The Duke drank
-curaçao and potass water, and Mr. Barker drank champagne, while Claudius
+curaÃ§ao and potass water, and Mr. Barker drank champagne, while Claudius
 smoked innumerable cigarettes. There were a great many bright dresses,
 there was a great deal of shouting, and the congregation of the
 horse-cads was gathered together.
@@ -2075,8 +2075,8 @@ excessively handsome. They sat at a round table on which were flowers,
 and a large block of ice in a crystal dish.
 
 "Do you understand Russian soups?" asked Margaret of Claudius, as she
-deposited a spoonful of a wonderful looking _pâté_ in the middle of her
-_consommé_.
+deposited a spoonful of a wonderful looking _pÃ¢tÃ©_ in the middle of her
+_consommÃ©_.
 
 "Alas" said the Doctor, "I am no gastronome. At least my friend Mr.
 Barker tells me so, but I have great powers of adaptation. I shall
@@ -2948,7 +2948,7 @@ servant came across the lawn announcing the Duke.
 "Ask his Grace to come outside," said Margaret, and the representative
 of the aristocracy was striding over the green, hat in hand, a moment
 afterwards. Margaret put out her hand and Claudius rose. Each felt that
-the _deus ex machinâ_ had arrived, and that the subject of the yachting
+the _deus ex machinÃ¢_ had arrived, and that the subject of the yachting
 excursion would be immediately broached.
 
 "Immense luck, finding you both," remarked the Duke when he was seated.
@@ -3225,7 +3225,7 @@ dinner, they will manage it between them, depend upon it. They are in
 love, you know perfectly well."
 
 "I suppose they are," said the Duke, as if he did not understand that
-kind of thing. "I think I will have some curaçao and potass;" and he
+kind of thing. "I think I will have some curaÃ§ao and potass;" and he
 rang the bell.
 
 "That's not half a bad idea," he said when he was refreshed. "I begin to
@@ -3462,7 +3462,7 @@ existed during his daily visits could only continue on the footing of
 severe industry she had established from the first. But the sight of the
 open deck, the other people constantly moving to and fro, the proper
 aspect of the lady-companion, just out of earshot, and altogether the
-appearance of publicity which the sea-life lent to their _tête-à-tête_
+appearance of publicity which the sea-life lent to their _tÃªte-Ã -tÃªte_
 hours, brought, as a necessary consequence, a certain unbending. It
 always seemed such an easy matter to call some third party into the
 conversation if it should grow too confidential. And so, insensibly,
@@ -3550,7 +3550,7 @@ not interfere with the innocent delights of your leisure hours, that I
 can see."
 
 "Ah, well--you see--I am pretty lucky. The Duchess is a domestic type of
-angel. Likes children and bric-à-brac and poultry, and all those things.
+angel. Likes children and bric-Ã -brac and poultry, and all those things.
 Takes no end of trouble about the place."
 
 "Why should not I marry the angelic domestic--the domestic angel, I
@@ -5237,7 +5237,7 @@ like to talk about those things, even with Barker, the fate of Claudius
 and Margaret as compared with the larger destinies of the Green Swash
 Mining Company were as the humble and unadorned mole-hill to the glories
 of the Himalaya. People had criticised the Duke's financial career in
-England. Why had he sold that snuffbox that Marie Therèse gave to his
+England. Why had he sold that snuffbox that Marie TherÃ¨se gave to his
 ancestor when--well, you know when? Why had he converted those
 worm-eaten manuscripts, whereon were traced many valuable things in a
 variety of ancient tongues, into coin of the realm? And why had he
@@ -5725,7 +5725,7 @@ other prandial arrangements are an empty sham. At least so Claudius said
 to Margaret in an aside, when they got to the fruit. And Margaret, who
 looked wonderfully beautiful with a single band of gold through her
 black hair, laughed her assent, and said it was hopeless for the men of
-this day to enter the lists against the veterans of the _ancien régime_.
+this day to enter the lists against the veterans of the _ancien rÃ©gime_.
 And Claudius was not in the least hurt by the comparison, odious though
 it would have been to Mr. Barker, had he been there. Claudius had plenty
 of vanity, but it did not assume the personal type. Some people call a
@@ -5739,7 +5739,7 @@ to be in New York and that Newport was still gay; at all events, the
 weather promised well, and they need not stay more than twenty-four
 hours unless they pleased. The proposition was carried unanimously, the
 Duke making a condition that he should be left in peace and not
-"entertained in a handsome manner by the _élite_ of our Newport
+"entertained in a handsome manner by the _Ã©lite_ of our Newport
 millionaires"--as the local papers generally have it. Lady Victoria
 would not have objected to the operation of "being entertained" by
 Newport, for it amused her to see people, but of course she would enjoy
@@ -6789,14 +6789,14 @@ the note, and merely said there would be no answer.
 "Madame would she dress herself to go out, or to keep the lodging?"
 
 Madame would not go out. Was it warm? Oh yes, it was very warm. In fact
-it was _hébétant_. Would Madame see Monsieur le Duc if he called at
+it was _hÃ©bÃ©tant_. Would Madame see Monsieur le Duc if he called at
 eleven? Monseigneur's Monsieur Veelees had charged her to inquire of
 Madame. No, Madame would not see Monsieur le Duc this morning. But if
 any one called, Madame desired to be informed. Madame would be served.
 And so the toilet proceeded.
 
 It was not very long before some one called. There was a knock at the
-door of the bedroom. Clémentine left the Countess's hair, which she was
+door of the bedroom. ClÃ©mentine left the Countess's hair, which she was
 busy combing and tressing, and went to the door. It was old Vladimir,
 Margaret's faithful Russian servant.
 
@@ -6811,7 +6811,7 @@ all hanging down. She knew enough Russian to talk to the servant.
 
 "What did you say, Vladimir?"
 
-"Margareta Ivanowna"--Margaret's father's name had been John--"Nicolaï
+"Margareta Ivanowna"--Margaret's father's name had been John--"NicolaÃ¯
 Alexandrewitch is here," said Vladimir, who seemed greatly surprised.
 His geographical studies having been purely experimental, the sudden
 appearance of a Russian gentleman led him to suppose his mistress had
@@ -6819,18 +6819,18 @@ landed in some outlying part of Russia, or at least of Europe. So she
 bade the old servant conduct the gentleman to her sitting-room and ask
 him to wait. She was not long in finishing her toilet. Before she left
 the room a servant of the hotel brought another box of flowers from Mr.
-Barker. Clémentine cut the string and opened the pasteboard shell.
+Barker. ClÃ©mentine cut the string and opened the pasteboard shell.
 Margaret glanced indifferently at the profusion of roses and pink
 pond-lilies--a rare variety only found in two places in America, on Long
 Island and near Boston--and having looked, she turned to go.
 
-Clémentine held up two or three flowers, as if to try the effect of them
+ClÃ©mentine held up two or three flowers, as if to try the effect of them
 on Margaret's dress.
 
 "Madame would she not put some flowers in her dress?"
 
 No. Madame would not. Madame detested flowers. Whereat the intelligent
-Clémentine carefully examined the name of the sender, inscribed on a
+ClÃ©mentine carefully examined the name of the sender, inscribed on a
 card which lay in the top of the box. Mr. Barker knew better than to
 send flowers anonymously. He wanted all the credit he could get. The
 Countess swept out of the room.
@@ -6840,7 +6840,7 @@ to kiss her extended hand, and greeted her with a manner which was
 respectful indeed, but which showed that he felt himself perfectly at
 ease in her society.
 
-Nicolaï Alexandrewitch, whom we will call simply Count Nicholas, was the
+NicolaÃ¯ Alexandrewitch, whom we will call simply Count Nicholas, was the
 only brother of Margaret's dead husband. Like Alexis, he had been a
 soldier in a guard regiment; Alexis had been killed at Plevna, and
 Nicholas had succeeded to the title and the estates, from which,
@@ -6867,7 +6867,7 @@ depended upon.
 you, but what is the meaning of the things you wrote me this morning?
 Are you really in trouble?"
 
-"Hélas, yes. I am in the worst kind of trouble that exists for a
+"HÃ©las, yes. I am in the worst kind of trouble that exists for a
 Russian. I am in political trouble--and that entails everything else."
 
 "Tell me all about it," said she. "Perhaps I may help you."
@@ -6886,7 +6886,7 @@ you."
 
 "You are kindness itself, and I thank you in advance. Wait till you have
 heard. I am 'suspect,'--they think I am a Nihilist I am exiled to the
-mines, and everything is confiscated. Voilà! Could it be worse?"
+mines, and everything is confiscated. VoilÃ ! Could it be worse?"
 
 Margaret was taken off her guard. She had herself been in more than easy
 circumstances at the time of her marriage, but the financial crisis in
@@ -6910,9 +6910,9 @@ seriously think there is anything to forgive?"
 "But it is true," he said piteously; "in ruining me they have ruined
 you. Mon Dieu, mon Dieu! If I only had a friend--"
 
-"Taisez vous donc, mon ami. It is everything most bête what you say. You
+"Taisez vous donc, mon ami. It is everything most bÃªte what you say. You
 have many friends, and as for me, I do not care a straw for the money.
-Only if I had known I would not have left Europe. Voilà tout."
+Only if I had known I would not have left Europe. VoilÃ  tout."
 
 "Ah, that is it," said Nicholas. "I escaped the police and hurried to
 Baden. But you were gone. So I took the first steamer and came here. But
@@ -6941,7 +6941,7 @@ Robespierre and Monsieur Washington."
 
 "You must have been indiscreet. How could they have found it out?"
 
-"I was bête enough to write an article in the _Russki Mir_--the mildest
+"I was bÃªte enough to write an article in the _Russki Mir_--the mildest
 of articles. And then some of the Nihilist agents thought I was in their
 interests and wanted to see me, and the police observed them, and I was
 at once classed as a Nihilist myself, and there was a perquisition in my
@@ -6975,7 +6975,7 @@ you because you are poor Alexis's brother." There was no emotion in her
 voice at the mention of her dead husband, only a certain reverence. She
 had honoured him more than she had loved him.
 
-"Princesse, quand même," said Nicholas in a low voice, as he raised her
+"Princesse, quand mÃªme," said Nicholas in a low voice, as he raised her
 fingers to his lips.
 
 "Leave me your address before you go. I will write as soon as I have
@@ -6992,8 +6992,8 @@ service finding its way up or down stairs. And in the street the eternal
 clatter and hum and crunch, and crunch and hum and clatter of men and
 wheels; the ceaseless ring of the tram-cars stopping every few steps to
 pick up a passenger, and the jingle of the horses' bells as they moved
-on. It was hot--it was very hot. Clémentine was right, it was
-_hébétant_, as it can be in New York in September. She bethought herself
+on. It was hot--it was very hot. ClÃ©mentine was right, it was
+_hÃ©bÃ©tant_, as it can be in New York in September. She bethought herself
 that she might go out and buy things, that last resource of a rich woman
 who is tired and bored.
 
@@ -7017,7 +7017,7 @@ Bellingham, commonly known as "Uncle Horace."
 conceived a great liking for the old gentleman on the previous evening,
 and who would have welcomed anybody this morning.
 
-Mr. Bellingham made a bow of the courtliest, most _ancien-régime_ kind.
+Mr. Bellingham made a bow of the courtliest, most _ancien-rÃ©gime_ kind.
 He had ventured to bring her a few flowers. Would she accept them? They
 were only three white roses, but there was more beauty in them than in
 all Mr. Barker's profusion. Margaret took them, and smelled them, and
@@ -7107,7 +7107,7 @@ muddled on most points, and altogether beside itself as regards its
 individual existence; for a union of much imagination, unbounded vanity,
 and unfathomable ignorance can never take the place of an intellect,
 while such a combination cannot fail to destroy the blessed _vis
-inertiæ_ of the primitive fool, who only sees what is visible, instead
+inertiÃ¦_ of the primitive fool, who only sees what is visible, instead
 of evolving the phantoms of an airy unreality from the bottomless abyss
 of his own so-called consciousness. Fortunately for humanity, the
 low-class unimaginative mind predominates in the world, as far as
@@ -7128,7 +7128,7 @@ notable fact that very few men of genius have ever been put in
 madhouses, whereas the society that calls those men crazy is always
 finding its way there. It takes but little to make a lunatic of poor
 Lady Smith-Tompkins. Poor thing! you know she is so very "high-strung,"
-such delicate sensibilities! She has an _idée fixe_--so very sad. Ah
+such delicate sensibilities! She has an _idÃ©e fixe_--so very sad. Ah
 yes! that is it. She never had an idea before, and now that she has one
 she cannot get rid of it, and it will kill her in time.
 
@@ -7274,10 +7274,10 @@ upon the sofa that stood between the two windows of the room, which was
 on the ground floor, and looked out on the street. The walls were
 covered with pictures wherever they were not covered with books, and
 there was not an available nook or corner unfilled with scraps of
-bric-à-brac, photographs, odds and ends of reminiscence, and all manner
+bric-Ã -brac, photographs, odds and ends of reminiscence, and all manner
 of things characteristic to the denizen of the apartment. The furniture
 was evidently calculated more for comfort than display, and if there was
-an air of luxury pervading the bachelor's quiet _rez-de-chaussée_, it
+an air of luxury pervading the bachelor's quiet _rez-de-chaussÃ©e_, it
 was due to the rare volumes on the shelves and the good pictures on the
 walls, rather than to the silk or satin of the high-art upholsterer, or
 the gilding and tile work of the modern decorator, who ravages upon
@@ -7285,7 +7285,7 @@ beauty as a fungus upon a fruit tree. Whatever there was in Mr.
 Bellingham's rooms was good; much of it was unique, and the whole was
 harmonious. Rare editions were bound by famous binders, and if the
 twopenny-halfpenny productions of some little would-be modern poet,
-resplendent with vellum and æsthetic greenliness of paper, occasionally
+resplendent with vellum and Ã¦sthetic greenliness of paper, occasionally
 found their way to the table, they never travelled as far as the
 shelves. Mr. Bellingham had fools enough about him to absorb his spare
 trash.
@@ -7472,8 +7472,8 @@ department. To begin with, they have not enough experience among them to
 make rules from."
 
 "But they contribute. One man will come who will find the rule. Was
-Tycho Brahé a nonentity because he was not Kepler? Was Van Helmont
-nothing because he was not Lavoisier? Yet Tycho Brahé was an empiric--he
+Tycho BrahÃ© a nonentity because he was not Kepler? Was Van Helmont
+nothing because he was not Lavoisier? Yet Tycho BrahÃ© was an empiric--he
 was the last of the observers of the concrete, if you will allow me the
 phrase. He was scientifically the father of Kepler."
 
@@ -7845,7 +7845,7 @@ even while it gives an unparalleled harmony to the whole. The Greeks had
 more, for their activity, hampered by the narrow limits of their
 political sphere, broke out in every variety of intellectual effort,
 carried into every branch of science and art. In spite of the whole
-modern school of impressionists, æsthetes, and aphrodisiac poets, the
+modern school of impressionists, Ã¦sthetes, and aphrodisiac poets, the
 most prominent features of Greek art are its intellectuality, its
 well-reasoned science, and its accurate conception of the ideal. The
 resemblance between Americans of to-day and Greeks of the age of
@@ -8366,7 +8366,7 @@ siege to a woman. For with women time is sometimes everything. And being
 of a reasonable mind, when Mr. Barker observed that he was surprised, he
 concluded that there must be some good reason for his astonishment, and
 still more that there must be some very good reason why Margaret should
-accept his first invitation to a _tête-à-tête_ afternoon. From one
+accept his first invitation to a _tÃªte-Ã -tÃªte_ afternoon. From one
 reflection to another, he came at last to the conclusion that she must
 be anxious to learn some details concerning the Doctor's departure, from
 which again he argued that Claudius had not taken her into his
@@ -8966,7 +8966,7 @@ handwriting may be said to have an expression.
      if I were so honoured by Heaven, the tongues of men and of angels,
      and all the mighty word-music of sage and prophet, that I might
      tell you how I love you, my heart's own. I would ask that for one
-     hour I might hold in my hand the bâton of heaven's choir. Then
+     hour I might hold in my hand the bÃ¢ton of heaven's choir. Then
      would I lead those celestial musicians through such a grand plain
      chant as time has never dreamt of, nor has eternity yet heard it;
      so that rank on rank of angels and saints should take up the song,
@@ -9016,7 +9016,7 @@ handwriting may be said to have an expression.
      word of comfort and strength in my journeying. Anything sent to
      Baring's will reach me; you cannot know what a line from you would
      be to me, how I would treasure it as the most sacred of things and
-     the most precious, until we meet. And so, à bientôt, for we must
+     the most precious, until we meet. And so, Ã  bientÃ´t, for we must
      never say 'goodbye,' even in jest. I feel as though I were
      launching this letter at a venture, as sailors throw a bottle
      overboard when they fear they are lost. I have not yet tested the
@@ -9041,7 +9041,7 @@ It was a love-letter, at least in part, such as a man might have written
 a hundred years ago--not such as men write nowadays, thought Margaret;
 certainly not such as Mr. Barker would write--or could. But she was glad
 he had written; and written so, for it was like him, who was utterly
-unlike any one else. The letter had come in the morning while Clémentine
+unlike any one else. The letter had come in the morning while ClÃ©mentine
 was dressing her, and she laid it on her writing-desk. But when the
 maid was gone, she read it once again, sitting by her window, and when
 she had done she unconsciously held it in her hand and rested her cheek
@@ -9147,8 +9147,8 @@ doubt and delicacy that was unnatural to him.
 
 "Certainly," said Margaret indifferently, but smiling a little withal.
 
-"I have ventured to bring you some _marrons glacés_," said Barker, when
-he was seated, producing at the same time a neat _bonbonnière_ in the
+"I have ventured to bring you some _marrons glacÃ©s_," said Barker, when
+he was seated, producing at the same time a neat _bonbonniÃ¨re_ in the
 shape of a turban. "I thought they would remind you of Baden. You used
 to be very fond of them."
 
@@ -9187,7 +9187,7 @@ representation, either on the stage or in the plastic or pictorial arts.
 It may be that in earlier ages, when men were personally familiar with
 the horrors of a barbarous ethical system, while at the same time they
 had the culture and refinement belonging to a high development of
-æsthetic civilisation, the presentation of a great terror immediately
+Ã¦sthetic civilisation, the presentation of a great terror immediately
 suggested the concomitant horror; and suggested it so vividly that the
 visible definition of the result--the bloodshed, the agony, and the
 death-rattle--would have produced an impression too dreadful to be
@@ -9259,7 +9259,7 @@ Home through the long streets, lighted with the pale electric flame that
 gives so deathly a tinge to everything that comes within the circling of
 its discolour; home to her rooms with the pleasant little fire
 smouldering on the hearth, and flowers--Barker's flowers--scenting the
-room; home to the cares of Clémentine, to lean back with half-closed
+room; home to the cares of ClÃ©mentine, to lean back with half-closed
 eyes, thinking, while the deft French fingers uncoil and smooth and coil
 again the jet-black tresses; home to the luxury of sleep unbroken by ill
 ease of body, though visited by the dreams of a far-away lover--dreams
@@ -9854,15 +9854,15 @@ Furthermore, she reflected that however much she might wish to be away,
 it was most emphatically not the thing to do. On the whole, she would
 stay where she was.
 
-She was roused from her reverie by Clémentine, who entered in a halo of
+She was roused from her reverie by ClÃ©mentine, who entered in a halo of
 smiles, as though she were the bearer of good news. In the first place
 she had a telegram, which proved to be from Claudius, dated Berlin, and
 simply announcing the fact that he would sail at once. Margaret could
 hardly conceal her great satisfaction, and the colour came so quickly to
 her face as she read the flimsy bit of paper from the cable office that
-Clémentine made the most desperate efforts to get possession of it, or
+ClÃ©mentine made the most desperate efforts to get possession of it, or
 at least to see the signature. But Margaret kept it under her pillow for
-half an hour, and then burned it carefully by the taper, to Clémentine's
+half an hour, and then burned it carefully by the taper, to ClÃ©mentine's
 inexpressible chagrin.
 
 Meanwhile, however, there were other news in the wind, and when the
@@ -9880,15 +9880,15 @@ Monsieur Veelees upon the carrefour. He has prayed me to present the
 compliments of Monsieur le Duc and to ask at what hour Madame la
 Comtesse would be in disposition to see him."
 
-"Ah, very well," said the Countess. "I will get up, Clémentine."
+"Ah, very well," said the Countess. "I will get up, ClÃ©mentine."
 
-"Si tôt, Madame? it is yet very morning," argued the girl with a little
+"Si tÃ´t, Madame? it is yet very morning," argued the girl with a little
 show of polite surprise.
 
-"That is indifferent. Go, Clémentine, and tell Monsieur le Duc I will
+"That is indifferent. Go, ClÃ©mentine, and tell Monsieur le Duc I will
 see him at once."
 
-"At once, Madame? I run," said Clémentine, going slowly to the door.
+"At once, Madame? I run," said ClÃ©mentine, going slowly to the door.
 
 "Enfin--when I am dressed. Don't you understand?" said Margaret
 impatiently.
@@ -9902,10 +9902,10 @@ went to the window and breathed the cool air. An indescribable longing
 seized her to be out, among trees and plants and fresh growing
 things--to blow away the dark dreams of the night, the visions of Barker
 and Screw, and of the ballroom, and of that detestable Japanese boudoir.
-She hurried her toilet in a manner that completely aroused Clémentine's
+She hurried her toilet in a manner that completely aroused ClÃ©mentine's
 vigilant suspicion.
 
-"Hélas," Clémentine used to say to Willis the Duke's servant, "Je ne lui
+"HÃ©las," ClÃ©mentine used to say to Willis the Duke's servant, "Je ne lui
 ai jamais connu d'amant. I had pourtant much hoped of Monsieur
 Clodiuse." But she never ventured such remarks when old Vladimir was at
 hand.
@@ -10212,7 +10212,7 @@ turned away, hat in hand. She stood looking after him a moment.
 "I wonder," she said to herself as she entered her room and closed the
 door. "Poor man! it is not possible, though. I must be dreaming. Ah me!
 I am always dreaming now, it seems to me;" and she sank down in a chair
-to wait for Clémentine.
+to wait for ClÃ©mentine.
 
 And so it is that some women go through life making far more victims
 than they know of. There are some honest men who will not speak, unless
@@ -10231,7 +10231,7 @@ shun society or shut herself up, and more than once she saw Barker in
 the street and in the crowds at parties. The houses in America are so
 small that parties are always crowded. But he had the good sense to
 avoid her, and she was not troubled by any communication from him.
-Clémentine, indeed, wondered that so few flowers came, for a day or two,
+ClÃ©mentine, indeed, wondered that so few flowers came, for a day or two,
 and old Vladimir pondered on the probable fate of Mr. Barker, who, he
 supposed, had been sent to Canada in chains for some political offence,
 seeing that he called no longer. But these faithful servitors could not

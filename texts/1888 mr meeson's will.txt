@@ -200,7 +200,7 @@ At this moment the door opened, and a young gentleman came slowly in. He
 was a very nice-looking young man, tall and well shaped, with a fair skin
 and jolly blue eyes--in short, a typical young Englishman of the better
 sort, aetate suo twenty-four. I have said that he came slowly in, but
-that scarcely conveys the gay and _dégagé_ air of independence which
+that scarcely conveys the gay and _dÃ©gagÃ©_ air of independence which
 pervaded this young man, and which would certainly have struck any
 observer as little short of shocking, when contrasted with the worm-like
 attitude of those who crept round the feet of Meeson. This young man had
@@ -302,21 +302,21 @@ ran thus:--
 
 AUGUSTA SMITHERS _in account with_ MEESON & Co.
 
-                                               £  s d
+                                               Â£  s d
 To Sale of Right of Translation of             7  0 0
 "Jemima's Vow" into French......
 Do.  do.  do. into German                      7  0 0
                                              --------
-                                             £14  0 0
+                                             Â£14  0 0
                                              ========
-                                               £  s d
+                                               Â£  s d
 Less amount due to Messrs. Meeson, being       7  0 0
 one-half of net proceeds
 Less Commission, &c                            3 19 0
                                              ----------
-                                             £10 19 0
+                                             Â£10 19 0
                                              ==========
-Balance due to Author, as per cheque         £3  1 0
+Balance due to Author, as per cheque         Â£3  1 0
 herewith.                                    --------
 
 
@@ -324,7 +324,7 @@ Augusta looked, and then slowly crumpled up the cheque in her hand.
 
 "If I understand, Mr. Meeson," she said, "you have sold the two rights of
 translation of my book, which you persuaded me to leave in your hands,
-for £14; out of which I am to receive £3 1s.?"
+for Â£14; out of which I am to receive Â£3 1s.?"
 
 "Yes, Miss Smithers. Will you be so kind as to sign the receipt; the fact
 is that I have a good deal of business to attend to."
@@ -633,7 +633,7 @@ the document in question.
 "Little idiot!" muttered Meeson; "I'll give him the sack, too, if he
 isn't more careful. By Jove! why should I not have my own resident
 solicitor? I could get a sharp hand with a damaged character for about
-£300 a year, and I pay that old Todd quite £2000. There is a vacant place
+Â£300 a year, and I pay that old Todd quite Â£2000. There is a vacant place
 in the Hutches that I could turn into an office. Hang me, if I don't do
 it. I will make that little chirping grasshopper jump to some purpose,
 I'll warrant," and he chuckled at the idea.
@@ -680,7 +680,7 @@ honesty, "Is that it is the most shameful thing I ever heard of!"
 "Indeed, Mr. Todd, is it? Well now, may I ask you: am I leaving this
 property, or are you? Don't trouble yourself to answer that, however, but
 just attend. Either you draw up that will at once, while I wait, or you
-say good-bye to about £2000 a year, for that's what Meeson's business is
+say good-bye to about Â£2000 a year, for that's what Meeson's business is
 worth, I reckon. Now you take your choice."
 
 Mr. Todd did take his choice. In under an hour, the will, which was very
@@ -790,8 +790,8 @@ him a widow and two children--Augusta, aged fourteen, and Jeannie, aged
 two. There had been two others, both boys, who had come into the world
 between Augusta and Jeannie, but they had both preceded their father to
 the land of shadows. Mrs. Smithers, had, fortunately for herself, a life
-interest in a sum of £7000, which, being well invested, brought her in
-£350 a year: and, in order to turn this little income to the best
+interest in a sum of Â£7000, which, being well invested, brought her in
+Â£350 a year: and, in order to turn this little income to the best
 possible account and give her two girls the best educational
 opportunities possible under the circumstances, she, on her husband's
 death, moved from the village where he had for many years been curate,
@@ -801,7 +801,7 @@ respectively nineteen and eight years of age, to mourn her loss, and,
 friendless as they were, to fight their way in the hard world.
 
 Mrs. Smithers had been a saving woman, and, on her death, it was found
-that, after paying all debts, there remained a sum of £600 for the two
+that, after paying all debts, there remained a sum of Â£600 for the two
 girls to live on, and nothing else; for their mother's fortune died with
 her. Now, it will be obvious that the interest arising from six hundred
 pounds is not sufficient to support two young people, and therefore
@@ -1007,7 +1007,7 @@ herself, "and, if she gives up, she will die. I know it, it is because we
 are not going away. How can I get the money, now that that horrible man
 is gone? how can I get it?" and she buried her head in her hand and
 thought. Presently an idea struck her: she might go back to Meeson and
-eat her words, and sell him the copyright of her new book for £100, as
+eat her words, and sell him the copyright of her new book for Â£100, as
 the agreement provided. That would not be enough, however; for travelling
 with an invalid is expensive; but she might offer to bind herself over to
 him for a term of years as a tame author, like those who worked in the
@@ -1365,7 +1365,7 @@ in his face.
 Poor Eustace! He had gone to London to try and get some employment, and
 having, after some difficulty, succeeded in obtaining a billet as reader
 in Latin, French and English to a publishing house of good repute, at a
-salary of £180 a year, he had hurried back to Birmingham for the sole
+salary of Â£180 a year, he had hurried back to Birmingham for the sole
 purpose of seeing Miss Augusta Smithers, with whom, if the whole truth
 must be told, he had, to his credit be it said, fallen deeply, truly, and
 violently in love. Indeed, so far was he in this way gone, that he had
@@ -3178,7 +3178,7 @@ around him with frightened eyes.
 Number 25--he died years ago. He was a very clever doctor; but one of his
 patients brought a false charge against him and ruined him, so he had to
 take to writing, poor devil! We made him edit a medical
-encyclopaedia--twelve volumes for £300, to be paid on completion; and he
+encyclopaedia--twelve volumes for Â£300, to be paid on completion; and he
 went mad and died at the eleventh volume. So, of course, we did not pay
 his widow anything. And now he's come for me--I know he has. Listen! he's
 talking! Don't you hear him? Oh, Heavens! He says that I am going to be
@@ -4809,7 +4809,7 @@ is nothing to prevent learned counsel from returning that fee, and all
 the little fees. Indeed, James, you will see that this practice is common
 amongst the most eminent of your profession, when, for instance, they
 require an advertisement or wish to pay a delicate compliment to a
-constituency. What do they do then? They wait till they find £500 marked
+constituency. What do they do then? They wait till they find Â£500 marked
 upon a brief, and then resign their fee. Why should you not do the same
 in this case, in your own interest? Of course, if we win the cause, the
 other side or the estate will pay the costs; and if we lose, you will at
@@ -5382,7 +5382,7 @@ turned to the left and then to the left again. If they had had any doubt
 as to which road they should take it would have been speedily decided by
 the long string of wigs which were streaming away in the direction of
 Divorce Court No. 1. Thicker and thicker grew the wigs; it was obvious
-that the _cause célèbre_ of Meeson v. Addison and Another would not want
+that the _cause cÃ©lÃ¨bre_ of Meeson v. Addison and Another would not want
 for hearers. Indeed, Augusta and her friends soon realised the intensity
 of the public interest in a way that was as impressive as it was
 disagreeable, for just past the Admiralty Court the passage was entirely
@@ -6449,7 +6449,7 @@ beaming like stars with happiness and champagne. And then Lady Holmhurst
 departed also, and left Eustace and Augusta alone.
 
 "Life is a queer thing," said Eustace; "here this morning I was a
-publisher's reader at £180 a year; and now, to-night, if this verdict
+publisher's reader at Â£180 a year; and now, to-night, if this verdict
 holds, it seems that I am one of the wealthiest men in England."
 
 "Yes, dear," said Augusta, "and with all the world at your feet, for life

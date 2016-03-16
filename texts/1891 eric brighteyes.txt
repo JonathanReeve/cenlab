@@ -233,10 +233,10 @@ sea, for he was a "red-hand" viking. Asmund was a handsome man, with
 blue eyes and a large beard, and, moreover, was very skilled in
 matters of law. He loved money much, and was feared of all. Still, he
 had many friends, for as he aged he grew more kindly. He had in
-marriage Gudruda, the daughter of Björn, who was very sweet and kindly
+marriage Gudruda, the daughter of BjÃ¶rn, who was very sweet and kindly
 of nature, so that they called her Gudruda the Gentle. Of this
-marriage there were two children, Björn and Gudruda the Fair; but
-Björn grew up like his father in youth, strong and hard, and greedy of
+marriage there were two children, BjÃ¶rn and Gudruda the Fair; but
+BjÃ¶rn grew up like his father in youth, strong and hard, and greedy of
 gain, while, except for her wonderful beauty, Gudruda was her mother's
 child alone.
 
@@ -345,7 +345,7 @@ once more the dove drooped. Again the swan came back, and with it the
 raven, and a great host were gathered against them, and, among them,
 all of Asmund's kith and kin, and the men of his quarter and some of
 his priesthood, and many whom he did not know by face. And the swan
-flew at Björn his son, and shot out the sword of its tongue and slew
+flew at BjÃ¶rn his son, and shot out the sword of its tongue and slew
 him, and many a man it slew thus. And the raven, with a beak and claws
 of steel, slew also many a man, so that Asmund's kindred fled and the
 swan slept by the dove. But as it slept the golden snake crawled out
@@ -590,9 +590,9 @@ Give me of thy counsel."
 Groa laughed again. "Things must be as they are fated. This now is my
 rede: Asmund would turn Gudruda's beauty to account, and that man must
 be rich in friends and money who gets her to wife, and in this matter
-the mind of Björn is as the mind of his father. Now we will watch,
+the mind of BjÃ¶rn is as the mind of his father. Now we will watch,
 and, when a good time chances, we will bear tales of Gudruda to Asmund
-and to her brother Björn, and swear that she oversteps her modesty
+and to her brother BjÃ¶rn, and swear that she oversteps her modesty
 with Eric. Then shall Asmund be wroth and drive Eric from Gudruda's
 side. Meanwhile, I will do this: In the north there dwells a man
 mighty in all things and blown up with pride. He is named Ospakar
@@ -884,7 +884,7 @@ Swanhild watched them both. Supper being over, people gathered round
 the hearth, and, having finished her service, Gudruda came and sat by
 Eric, so that her sleeve might touch his. They spoke no word, but
 there they sat and were happy. Swanhild saw and bit her lip. Now, she
-was seated by Asmund and Björn his son.
+was seated by Asmund and BjÃ¶rn his son.
 
 "Look, foster-father," she said; "yonder sit a pretty pair!"
 
@@ -908,8 +908,8 @@ Now it chanced that Gudruda had rested her chin on her hand, and was
 gazing into Eric's eyes beneath the shadow of her hair.
 
 "Methinks my sister will look higher than to wed a simple yeoman,
-though he is large as two other men," said Björn with a sneer. Now
-Björn was jealous of Eric's strength and beauty, and did not love him.
+though he is large as two other men," said BjÃ¶rn with a sneer. Now
+BjÃ¶rn was jealous of Eric's strength and beauty, and did not love him.
 
 "Trust nothing that thou seest and little that thou hearest, girl,"
 said Asmund, raising himself from thought: "so shall thy guesses be
@@ -943,9 +943,9 @@ perhaps the time will come when I shall ask thee for a richer."
 angry.
 
 "This wealthy farmer holds the good gold of little worth. It is
-foolish to take fish to the sea, my father," sneered Björn.
+foolish to take fish to the sea, my father," sneered BjÃ¶rn.
 
-"Nay, Björn, not so," Eric answered: "but, as thou sayest, I am but a
+"Nay, BjÃ¶rn, not so," Eric answered: "but, as thou sayest, I am but a
 farmer, and since my father, Thorgrimur Iron-Toe, died things have not
 gone too well on Ran River. But at the least I am a free man, and I
 will take no gifts that I cannot repay worth for worth. Therefore I
@@ -969,7 +969,7 @@ hither and gets speech with Gudruda, there is an end of thy hopes;
 for, fair as thou art, she is too fair for thee, and, strong as thou
 art, in a way she is too strong. Thou hast heard how these two love,
 and such loves mock at the will of fathers. Eric will win his desire
-or die beneath the swords of Asmund and Björn, if such men can prevail
+or die beneath the swords of Asmund and BjÃ¶rn, if such men can prevail
 against his might. Nay, the wolf Eric must be fenced from the lamb
 till he grows hungry. Then let him search the fold and make spoil of
 thee, for, when the best is gone, he will desire the good."
@@ -1302,7 +1302,7 @@ road along the brow of Coldback till he came to Stonefell. Now all
 along Coldback and Stonefell is a steep cliff facing to the south,
 that grows ever higher till it comes to that point where Golden River
 falls over it and, parting its waters below, runs east and west--the
-branch to the east being called Ran River and that to the west Laxà--
+branch to the east being called Ran River and that to the west LaxÃ --
 for these two streams girdle round the rich plain of Middalhof, till
 at length they reach the sea. But in the midst of Golden River, on the
 edge of the cliff, a mass of rock juts up called Sheep-saddle,
@@ -2319,7 +2319,7 @@ found, and he was fit to travel, for Eric had shaken him sorely. But
 he had no words with Gudruda and few with Asmund. Still, he saw
 Swanhild, and she bid him to be of good cheer, for he should yet have
 Gudruda. For now that the maid had passed from him the mind of Ospakar
-was set in winning her. Björn also, Asmund's son, spoke words of good
+was set in winning her. BjÃ¶rn also, Asmund's son, spoke words of good
 comfort to him, for he envied Eric his great fame, and he thought the
 match with Blacktooth would be good. And so at length Ospakar rode
 away to Swinefell with all his company; but Gizur, his son, left his
@@ -3337,7 +3337,7 @@ get a grip of him."
 "That I will have before summer is gone," said Asmund, for the death
 of Eric seemed to him the worst of sorrows.
 
-Gudruda walked far, and, crossing Laxà by the stepping stones, climbed
+Gudruda walked far, and, crossing LaxÃ  by the stepping stones, climbed
 Stonefell till she came to the head of Golden Falls, for, like a
 stricken thing, she desired to be alone in her grief. But Swanhild saw
 her and followed, coming on her as she sat watching the water thunder
@@ -3846,7 +3846,7 @@ therefore I have loved her and put away her evil deeds, and she is
 half-sister to thee, Gudruda. See, then, how sore is my straight, who
 must avenge daughter upon daughter."
 
-"Knows thy son Björn of this?" asked Eric.
+"Knows thy son BjÃ¶rn of this?" asked Eric.
 
 "None knew it till this hour, except Groa and I."
 
@@ -3902,7 +3902,7 @@ the roof of the great hall rocked:
 
 "/Welcome, Eric Brighteyes, thou glory of the south!/"
 
-Only Björn, Asmund's son, bit his hand, and did not shout, for he
+Only BjÃ¶rn, Asmund's son, bit his hand, and did not shout, for he
 hated Eric because of the fame that he had won.
 
 Brighteyes stood still till the clamour died, then said:
@@ -4430,7 +4430,7 @@ case, for he was the most famous of all lawmen in that day, and when
 thirteen full weeks of summer were done, they two rode to the Thing,
 and with them a great company of men of their quarter.
 
-Now, men go up to the Lögberg, and there came Ospakar, though he was
+Now, men go up to the LÃ¶gberg, and there came Ospakar, though he was
 not yet healed of his wound, and all his company, and laid their suits
 against Eric by the mouth of Gizur the Lawman, Ospakar's son. The
 pleadings were long and cunning on either side; but the end of it was
@@ -4486,7 +4486,7 @@ whole of the wound her husband gave thee. Be sure we shall yet stand
 face to face, and that combs shall be cut then, combs black or golden.
 Nurse thee! nurse thee! cease thy prating--get thee home, and bid
 Thorunna nurse thee; but first name thou the two who shall stand
-against me in holmgang in Oxarà's stream."
+against me in holmgang in OxarÃ 's stream."
 
 Folk laughed aloud while Eric mocked, but Ospakar gnashed his teeth
 with rage. Still, he named the two mightiest men in his company,
@@ -4495,7 +4495,7 @@ they were loth to do; still, because of the shame that they must get
 if they hung back, and for fear of the wrath of Ospakar, they made
 ready to obey his bidding.
 
-Then all men passed down to the bank of Oxarà, and, on the other side,
+Then all men passed down to the bank of OxarÃ , and, on the other side,
 people came from their booths and sat upon the slope of All Man's
 Raft, for it was a new thing that one man should fight two in
 holmgang.
@@ -4566,7 +4566,7 @@ as is blown about us, Gudruda, clasping at this happiness which is
 given, though we may not hold it. At the worst, the game will soon be
 played, and others will stand where we have stood, and strive as we
 have striven, and fail as we have failed, and so on, till man has
-worked out his doom, and the Gods cease from their wrath, or Ragnarrök
+worked out his doom, and the Gods cease from their wrath, or RagnarrÃ¶k
 come upon them, and they too are lost in the jaws of grey wolf
 Fenrir."
 
@@ -4647,7 +4647,7 @@ vain, for, when it was told that Eric went a-viking, so great was his
 fame grown, that many a stout yeoman and many a great-limbed carle
 reached down sword and shield and came up to Middalhof to put their
 hands in his. For mate, he took a certain man named Hall of Lithdale,
-and this because Björn asked it, for Hall was a friend to Björn, and
+and this because BjÃ¶rn asked it, for Hall was a friend to BjÃ¶rn, and
 he had, moreover, great skill in all manner of seamanship, and had
 often sailed the Northern Seas--ay, and round England to the coast of
 France.
@@ -4678,7 +4678,7 @@ if he had his will, and they were a mighty pair.
 At length all was ready and men sat down to the faring-feast in the
 hall at Middalhof, and that was a great feast. Eric's folk were
 gathered on the side-benches, and by the high seat at Asmund's side
-sat Brighteyes, and near to him where Björn, Asmund's son, Gudruda,
+sat Brighteyes, and near to him where BjÃ¶rn, Asmund's son, Gudruda,
 Unna, Asmund's betrothed, and Saevuna, Eric's mother. For this had
 been settled between Asmund and Eric, that his mother Saevuna, who was
 some somewhat sunk in age, should flit from Coldback and come with
@@ -4691,7 +4691,7 @@ trouble thee. Now, I pray you all to beware of Blacktooth, for, though
 the hound is whipped, he can still bite, and it seems that he has not
 yet put Gudruda from his mind."
 
-Now Björn had sat silently, thinking much and drinking more, for he
+Now BjÃ¶rn had sat silently, thinking much and drinking more, for he
 loved Eric less than ever on this day when he saw how all men did him
 honour and mourned his going, and his father not the least of them.
 
@@ -4699,12 +4699,12 @@ honour and mourned his going, and his father not the least of them.
 whom he would work his vengeance, and that for no light cause."
 
 "When bad fortune sits in thy neighbour's house, she knocks upon thy
-door, Björn. Gudruda, thy sister, is my betrothed, and thou art a
+door, BjÃ¶rn. Gudruda, thy sister, is my betrothed, and thou art a
 party to this feud," said Eric. "Therefore it becomes thee better to
 hold her honour and thy own against this Northlander, than to gird at
 me for that in which I have no blame."
 
-Björn grew wroth at these words. "Prate not to me," he said. "Thou art
+BjÃ¶rn grew wroth at these words. "Prate not to me," he said. "Thou art
 an upstart who wouldst teach their duty to thy betters--ay, puffed up
 with light-won fame, like a feather on the breeze. But I say this: the
 breeze shall fail, and thou shalt fall upon the goose's back once
@@ -4714,22 +4714,22 @@ outlawed for man-slaying."
 
 Now Eric sprang from his seat and laid hand upon the hilt of
 Whitefire, while men murmured in the hall, for they held this an ill
-speech of Björn's.
+speech of BjÃ¶rn's.
 
 "In thee, it seems, I have no friend," said Eric, "and hadst thou been
 any other man than Gudruda's brother, forsooth thou shouldst answer
-for thy mocking words. This I tell thee, Björn, that, wert thou twice
+for thy mocking words. This I tell thee, BjÃ¶rn, that, wert thou twice
 her brother, if thou plottest with Ospakar when I am gone, thou shalt
 pay dearly for it when I come back again. I know thy heart well: it is
 cunning and greedy of gain, and filled with envy as a cask with ale;
 yet, if thou lovest to feel it beating in thy breast, strive not to
 work me mischief and to put Gudruda from me."
 
-Now Björn sprang up also and drew his sword, for he was white with
+Now BjÃ¶rn sprang up also and drew his sword, for he was white with
 rage; but Asmund his father cried, "Peace!" in a great voice.
 
 "Peace!" he said. "Be seated, Eric, and take no heed of this foolish
-talk. And for thee, Björn, art thou the Priest of Middalhof, and
+talk. And for thee, BjÃ¶rn, art thou the Priest of Middalhof, and
 Gudruda's father, or am I? It has pleased me to betroth Brighteyes to
 Gudruda, and it pleased me not to betroth her to Ospakar, and that is
 enough for thee. For the rest, Ospakar would have slain Eric, not he
@@ -4738,16 +4738,16 @@ say this, that, if thou workest ill to Eric when he is over sea, thou
 shalt rightly learn the weight of Whitefire: it is a niddering deed to
 plot against an absent man."
 
-Eric sat down, but Björn strode scowling from the hall, and, taking
+Eric sat down, but BjÃ¶rn strode scowling from the hall, and, taking
 horse, rode south; nor did he and Eric meet again till three years had
 come and gone, and then they met but once.
 
 "Maggots shall be bred of that fly, nor shall they lack flesh to feed
-on," said Skallagrim in Eric's ears as he watched Björn pass. But Eric
+on," said Skallagrim in Eric's ears as he watched BjÃ¶rn pass. But Eric
 bade him be silent, and turned to Gudruda.
 
 "Look not so sad, sweet," he said, "for hasty words rise like the foam
-on mead and pass as soon. It vexes Björn that thy father has given me
+on mead and pass as soon. It vexes BjÃ¶rn that thy father has given me
 the good ship: but his anger will soon pass, or, at the very worst, I
 fear him not while thou art true to me."
 
@@ -4850,7 +4850,7 @@ and I hold her the most dear."
 "Fear not for that, lord," said Eric; "and I pray thee this, that, if
 I come back no more, as well may happen, do not force Gudruda into
 marriage, if she wills it not, and I think she will have little
-leaning that way. And I say this also: do not count overmuch on Björn
+leaning that way. And I say this also: do not count overmuch on BjÃ¶rn
 thy son, for he has no loyal heart; and beware of Groa, who was thy
 housekeeper, for she loves not that Unna should take her place and
 more. And now I thank thee for many good things, and farewell."
@@ -6606,14 +6606,14 @@ with fear. "Now I will change my counsel," Asmund said to himself:
 "Groa shall not stay here in this stead, for I will look no longer on
 that dark face of hers. She goes hence to-morrow."
 
-Not far from Asmund sat Björn, his son. As Gudruda the Fair, his
+Not far from Asmund sat BjÃ¶rn, his son. As Gudruda the Fair, his
 sister, brought him mead he caught her by the sleeve, whispering in
 her ear. "Methinks our father is sad. What weighs upon his heart?"
 
 "I know not," said Gudruda, but as she spoke she looked first on
 Asmund, then at Groa.
 
-"It is ill that Groa should stop here," whispered Björn again.
+"It is ill that Groa should stop here," whispered BjÃ¶rn again.
 
 "It is ill," answered Gudruda, and glided away.
 
@@ -6677,7 +6677,7 @@ grow thou white as snow--soon, if my medicine has virtue, thou shalt
 be whiter yet! Hearken all men. Asmund the Priest is Swanhild's
 father, and for many a year I have been Asmund's mate. What did I tell
 thee, lord?--that I would see the two of you dead ere Unna should take
-my place!--ay, and on Gudruda the Fair, thy daughter, and Björn thy
+my place!--ay, and on Gudruda the Fair, thy daughter, and BjÃ¶rn thy
 son, and Eric Brighteyes, Gudruda's love, and many another man--on
 them too shall my curse fall! Tear thy heart out, Asmund! Unna, grow
 thou white as snow! The draught is drugged and Groa, Ran's gift! Groa
@@ -6708,7 +6708,7 @@ Thorod's daughter, Eric's cousin, his new-made wife.
 
 
 For a moment there was silence in the hall. But before the echoes of
-Unna's screams had died away, Björn cried aloud:
+Unna's screams had died away, BjÃ¶rn cried aloud:
 
 "The witch! where is the witch?"
 
@@ -6723,7 +6723,7 @@ little rain had fallen and the river was low. She stood on Sheep-
 saddle, the water running from her robes. On Sheep-saddle she stood
 and cursed them.
 
-Björn took a bow and set a shaft upon the string. He drew it and the
+BjÃ¶rn took a bow and set a shaft upon the string. He drew it and the
 arrow sung through the air and smote her, speeding through her heart.
 With a cry Groa threw up her arms.
 
@@ -6734,12 +6734,12 @@ no more seen for ever.
 Thus, then, did Asmund the Priest wed Unna, Thorod's daughter, and
 this was the end of the feasting.
 
-Thereafter Björn, Asmund's son, ruled at Middalhof, and was Priest in
+Thereafter BjÃ¶rn, Asmund's son, ruled at Middalhof, and was Priest in
 his place. He sought for Koll the Half-witted to kill him, but Koll
 took the fells, and after many months he found passage in a ship that
 was bound for Scotland.
 
-Now Björn was a hard man and a greedy. He was no friend to Eric
+Now BjÃ¶rn was a hard man and a greedy. He was no friend to Eric
 Brighteyes, and always pressed it on Gudruda that she should wed
 Ospakar Blacktooth. But to this counsel Gudruda would not listen, for
 day and night she thought upon her love. Next summer there came
@@ -6748,7 +6748,7 @@ of how he and Skallagrim had swept the ship of Ospakar single-handed.
 Now after these tidings, for a while Gudruda walked singing through
 the meads, and no flower that grew in them was half so fair as she.
 
-That summer also Ospakar Blacktooth met Björn, Asmund's son, at the
+That summer also Ospakar Blacktooth met BjÃ¶rn, Asmund's son, at the
 Thing, and they talked much together in secret.
 
 
@@ -7025,7 +7025,7 @@ gone, and soon the friendless dark draws near. So put me not away, my
 brother and my friend; but, for a little space, whilst thou art here
 in Atli's hall, let us walk hand in hand as we walked long years ago
 in Iceland, gathering up the fifa-bloom, and watching the midnight
-shadows creep up the icy jökul's crest."
+shadows creep up the icy jÃ¶kul's crest."
 
 Thus Swanhild spoke to him most sweetly, in a low voice of music,
 while the tears gathered in her eyes, talking ever of Iceland that he
@@ -7203,7 +7203,7 @@ worn and hungry look.
 Iceland. As for my tidings, they are heavy, if thou hast not heard
 them. Asmund the Priest is dead, and dead is Unna his wife, poisoned
 by thy mother, Groa, at their marriage-feast. Dead, too, is thy
-mother, Groa. Björn, Asmund's son, shot her with an arrow, and she
+mother, Groa. BjÃ¶rn, Asmund's son, shot her with an arrow, and she
 lies in Goldfoss pool."
 
 Now Swanhild hid her face for a while in her hands. Then she lifted it
@@ -7296,7 +7296,7 @@ would send a message. Then she alighted from her horse, Blackmane, and
 spoke with me apart. 'Koll,' she said, 'it well may happen that thou
 wilt see Eric Brighteyes in London town. Now, if thou seest him, I
 charge thee straightly tell him this. Tell him that my father is dead,
-and my brother Björn, who rules in his place, is a hard man, and has
+and my brother BjÃ¶rn, who rules in his place, is a hard man, and has
 ever urged me on to wed Ospakar, till at last, having no choice, I
 have consented to it. And say to Eric that I grieve much and sorely,
 and that, though we twain should never meet more, yet I shall always
@@ -7860,7 +7860,7 @@ bide this winter through in London? Thou wouldst none of it, and what
 came about? Our ship is sunk, gone are our comrades, thine honour is
 tarnished, and dead is thy host at thine own hand. Yet I say all is
 not lost. Let us hence south, and see no more of Swanhild, of Gudruda,
-of Björn and Ospakar. So shall we break the spell. But if thou goest
+of BjÃ¶rn and Ospakar. So shall we break the spell. But if thou goest
 to Iceland, I am sure of this: that the evil fate which Atli foretold
 will fall on thee, and the days to come shall be even more unlucky
 than the days that have been."
@@ -7952,17 +7952,17 @@ just as folk rode to the Thing.
 
 Now Hall of Lithdale came to Iceland and told his tale of the doings
 of Eric and the death of Atli. Oft and loud he told it, and soon
-people gossiped of it in field and fair and stead. Björn, Asmund's
+people gossiped of it in field and fair and stead. BjÃ¶rn, Asmund's
 son, heard this talk and sent for Hall. To him also Hall told the
 tale.
 
-"Now," said Björn, "we will go to my sister Gudruda the Fair, and
+"Now," said BjÃ¶rn, "we will go to my sister Gudruda the Fair, and
 learn how she takes these tidings."
 
 So they went in to where Gudruda sat spinning in the hall, singing as
 she span.
 
-"Greeting, Gudruda," said Björn; "say, hast thou tidings of Eric
+"Greeting, Gudruda," said BjÃ¶rn; "say, hast thou tidings of Eric
 Brighteyes, thy betrothed?"
 
 "I have no tidings," said Gudruda.
@@ -8033,7 +8033,7 @@ oath which Eric took as to the cutting of his hair." And he drew a
 linen packet from his breast and gave it to her.
 
 Thrice Gudruda looked on it, fearing to open it. Then, seeing the
-smile of mockery on Björn's cold face, she took the shears that hung
+smile of mockery on BjÃ¶rn's cold face, she took the shears that hung
 at her side and cut the thread with them. And as she cut, a lock of
 golden hair rose from the packet, untwisting itself like a living
 snake. The lock was long, and its end was caked with gore.
@@ -8061,9 +8061,9 @@ locks of Eric's hair fall upon the embers. Slowly they twisted up and
 burned. She watched them burn, then she threw up her hands and with a
 great cry fled from the hall.
 
-Björn and Hall of Lithdale looked on each other.
+BjÃ¶rn and Hall of Lithdale looked on each other.
 
-"Thou hadst best go hence!" said Björn; "and of this I warn thee,
+"Thou hadst best go hence!" said BjÃ¶rn; "and of this I warn thee,
 Hall, though I hold thy tidings good, that, if thou hast spoken one
 false word, that will be thy death. For then it would be better for
 thee to face all the wolves in Iceland than to stand before Eric in
@@ -8074,22 +8074,22 @@ heavily.
 
 
 
-That day a messenger came from Gudruda to Björn, saying that she would
+That day a messenger came from Gudruda to BjÃ¶rn, saying that she would
 speak with him. He went to where she sat alone upon her bed. Her face
 was white as death, and her dark eyes glowed.
 
 "Eric has dealt badly with thee, sister, to bring thee to this
-sorrow," said Björn.
+sorrow," said BjÃ¶rn.
 
 "Speak no evil of Eric to me," Gudruda answered. "The evil that he has
 done will be paid back to him; there is little need for thee to heap
-words upon his head. Hearken, Björn my brother: is it yet thy will
+words upon his head. Hearken, BjÃ¶rn my brother: is it yet thy will
 that I should wed Ospakar Blacktooth?"
 
 "That is my will, surely. There is no match in Iceland as this
 Ospakar, and I should win many friends by it."
 
-"Do this then, Björn. Send messengers to Swinefell and say to Ospakar
+"Do this then, BjÃ¶rn. Send messengers to Swinefell and say to Ospakar
 that if he would still wed Gudruda the Fair, Asmund's daughter, let
 him come to Middalhof when folk ride from the Thing and he shall not
 go hence alone. Nay, I have done. Now, I pray thee speak no more to me
@@ -8164,7 +8164,7 @@ shameful of men, and therefore they were willing to stretch the law
 against him. Also, being absent, he had few friends, and those men of
 small account; whereas Ospakar, who backed Swanhild's suit, was the
 most powerful of the northern chiefs, as Gizur was the most skilled
-lawman in Iceland. Moreover, Björn the Priest, Asmund's son, was among
+lawman in Iceland. Moreover, BjÃ¶rn the Priest, Asmund's son, was among
 the judges, and, though Swanhild's tale seemed strange to him after
 that which he had heard from Hall of Lithdale, he loved Eric little.
 He feared also that if Eric came a free man to Iceland before Gudruda
@@ -8177,13 +8177,13 @@ So the end of it was that Eric Brighteyes was outlawed, his lands
 declared forfeit, and his head a wolf's head, to be taken by him who
 might, should he set foot in Iceland.
 
-Thereafter, the Althing being ended, Björn, Gizur, and Ospakar, with
+Thereafter, the Althing being ended, BjÃ¶rn, Gizur, and Ospakar, with
 all their company, rode away to Middalhof to sit at the marriage-
 feast. But Swanhild and her folk went by sea in the long war-ship to
 Westmans. For this was her plan: to seize on Coldback and to sit there
 for a while, till she saw if Eric came out to Iceland. Also she
 desired to see the wedding of Ospakar and Gudruda, for she had been
-bidden to it by Björn, her half-brother.
+bidden to it by BjÃ¶rn, her half-brother.
 
 Now Ospakar came to Middalhof, and found Gudruda waiting his coming.
 
@@ -8197,10 +8197,10 @@ heard that Eric had been made outlaw. Then she spoke:
 
 "This is an ill deed, thus to judge an absent man."
 
-"Say, Gudruda," said Björn in her ear, "hast thou not also judged Eric
+"Say, Gudruda," said BjÃ¶rn in her ear, "hast thou not also judged Eric
 who is absent?"
 
-She turned her head and spoke no more of Eric; but Björn's words fixed
+She turned her head and spoke no more of Eric; but BjÃ¶rn's words fixed
 themselves in her heart like arrows. The tale was strange to her, for
 it seemed that Eric had been made outlaw at Swanhild's suit, and yet
 Eric was Swanhild's love: for Swanhild's self had sent the lock of
@@ -8311,31 +8311,31 @@ bear her forth. Then suddenly she sprang from her seat and ran after
 her into the hall, weeping bitterly.
 
 Now as Saevuna, Eric's mother, was carried out she was met by Ospakar
-and Björn.
+and BjÃ¶rn.
 
-"Stay," said Björn. "What does this carline here?--and why weeps
+"Stay," said BjÃ¶rn. "What does this carline here?--and why weeps
 Gudruda, my sister?"
 
 The men halted. "Who calls me 'carline'?" said Saevuna. "Is the voice
-I hear the voice of Björn, Asmund's son?"
+I hear the voice of BjÃ¶rn, Asmund's son?"
 
-"It is my voice, truly," said Björn, "and I would know this--and this
+"It is my voice, truly," said BjÃ¶rn, "and I would know this--and this
 would Ospakar, who stands at my side, know also--why thou comest here,
 carline? and why Gudruda weeps?"
 
-"Gudruda weeps because she has good cause to weep, Björn. She weeps
+"Gudruda weeps because she has good cause to weep, BjÃ¶rn. She weeps
 because she has betrayed her love, Eric Brighteyes, my son, and is
 about to be sold in marriage--to be sold to thee, Ospakar Blacktooth,
 like a heifer at a fair."
 
-Then Björn grew angry and cursed Saevuna, nor did Ospakar spare to add
+Then BjÃ¶rn grew angry and cursed Saevuna, nor did Ospakar spare to add
 his ill words. But the old dame sat in her chair, listening silently
 till all their curses were spent.
 
 "Ye are evil, the twain of you," she said, "and ye have told lies of
 Eric, my son; and ye have taken his bride for lust and greed, playing
 on the jealous folly of a maid like harpers on a harp. Now I tell you
-this, Björn and Ospakar! My blind eyes are opened and I see this hall
+this, BjÃ¶rn and Ospakar! My blind eyes are opened and I see this hall
 of Middalhof, and lo! it is but a gore of blood! Blood flows upon the
 board--blood streams along the floor, and ye--ye twain!--lie dead
 thereon, and about your shapes are shrouds, and on her feet are Hell-
@@ -8345,15 +8345,15 @@ lightning stroke! Eric comes! I see his angry eyes--I see his helm
 flash in the door-place! Red was that marriage-feast at which sat
 Unna, my kinswoman, and Asmund, thy father--redder shall be the feast
 where sit Gudruda, thy sister, and Ospakar! The wolf howls at thy
-door, Björn! the grave-worm opens his mouth! trolls run to and fro
+door, BjÃ¶rn! the grave-worm opens his mouth! trolls run to and fro
 upon thy threshold, and the ghosts of men speed Hellwards! Ill were
 the deeds of Groa--worse shall be the deeds of Groa's daughter! Red is
-thy hall with blood, Björn!--for Whitefire is aloft and--/I tell thee
+thy hall with blood, BjÃ¶rn!--for Whitefire is aloft and--/I tell thee
 Eric comes!/"--and with one great cry she fell back--dead.
 
 Now they stood amazed, and trembling in their fear.
 
-"Saevuna hath spoken strange words," said Björn.
+"Saevuna hath spoken strange words," said BjÃ¶rn.
 
 "Shall we be frightened by a dead hag?" quoth Ospakar, drawing his
 breath again. "Fellows, bear this carrion forth, or we fling it to the
@@ -8524,7 +8524,7 @@ Brighteyes was declared outlaw, being absent. She told, too, how
 Gudruda had betrothed herself to Ospakar, and how Swanhild had moved
 down to Coldback and seized the lands. Lastly she told of the rising
 of Saevuna from her deathbed, of her going to Middalhof, of the words
-she spoke to Björn and Ospakar, and of her death in the hall at
+she spoke to BjÃ¶rn and Ospakar, and of her death in the hall at
 Middalhof.
 
 When all was told, Eric stooped and kissed the cold brow of his
@@ -8668,7 +8668,7 @@ rafters ring:
 "Here are Eric Brighteyes and Skallagrim Lambstail, his thrall, come
 from over sea to grace the feast, indeed!"
 
-"I could have looked for no worse guests," said Björn, beneath his
+"I could have looked for no worse guests," said BjÃ¶rn, beneath his
 breath, and rose to bid men thrust them out. But before he could
 speak, lo! gold-helmed Eric and black-helmed Skallagrim were stalking
 up the length of that great hall. Side by side they stalked, with
@@ -8685,13 +8685,13 @@ Swanhild; but the carles of Ospakar laid hand on sword--they too knew
 Eric. For still all men loved Eric, and the people of his quarter were
 proud of the deeds he had done oversea.
 
-"Greeting, Björn, Asmund's son!" quoth Eric. "Greeting, Ospakar
+"Greeting, BjÃ¶rn, Asmund's son!" quoth Eric. "Greeting, Ospakar
 Blacktooth! Greeting, Swanhild the Fatherless, Atli's witch-wife--
 Groa's witch-bairn! Greeting, Hall of Lithdale, Hall the liar--Hall
 who cut the grapnel-chain! And to thee, sweet Bride, to thee Gudruda
 the Fair, greeting!"
 
-Now Björn spoke: "I will take no greeting from a shamed and outlawed
+Now BjÃ¶rn spoke: "I will take no greeting from a shamed and outlawed
 man. Get thee gone, Eric Brighteyes, and take thy wolf-hound with
 thee, lest thou bidest here stiff and cold."
 
@@ -8701,7 +8701,7 @@ Skallagrim.
 But Eric laughed aloud and cried--
 
 "Words must be said, and perchance men shall die, ere ever I leave
-this hall, Björn!"
+this hall, BjÃ¶rn!"
 
 
 
@@ -8711,7 +8711,7 @@ HOW THE FEAST WENT
 
 "Hearken all men!" said Eric.
 
-"Thrust him out!" quoth Björn.
+"Thrust him out!" quoth BjÃ¶rn.
 
 "Nay, cut him down!" said Ospakar, "he is an outlawed man."
 
@@ -8741,7 +8741,7 @@ seat in Orkneys."
 
 "And for what cause was I made outlaw at the Althing?"
 
-"For this cause, Eric," said Björn, "that thou hadst dealt evilly with
+"For this cause, Eric," said BjÃ¶rn, "that thou hadst dealt evilly with
 Swanhild, bringing her to shame against her will, and thereafter that
 thou hadst slain the Earl, her husband."
 
@@ -8882,7 +8882,7 @@ better man. When we met before, the stake was Whitefire set against my
 eye. Now the stake is our lives and fair Gudruda's hand. Talk no more,
 Ospakar, but fall to it."
 
-"Gudruda shall never wed thee, while I live!" said Björn; "thou art a
+"Gudruda shall never wed thee, while I live!" said BjÃ¶rn; "thou art a
 landless loon, a brawler, and an outlaw. Get thee gone, Eric, with thy
 wolf-hound!"
 
@@ -8891,7 +8891,7 @@ thee!" said Skallagrim.
 
 "Whether I wed Gudruda or whether I wed her not is a matter that shall
 be known in its season," said Eric. "For thy words, I say this: that
-it is risky to hurl names at such as I am, Björn, lest perchance I
+it is risky to hurl names at such as I am, BjÃ¶rn, lest perchance I
 answer them with spear-thrusts. Thy answer, Ospakar! What need to
 wait? Thy answer!"
 
@@ -8921,7 +8921,7 @@ Gudruda spoke thus, because she was mad with love and fear and shame,
 and she desired that Eric should stand face to face with Ospakar
 Blacktooth, for thus, alone, she might perhaps be rid of Ospakar.
 
-"Such words do not come well from gentle lips," said Björn.
+"Such words do not come well from gentle lips," said BjÃ¶rn.
 
 "Is it to be borne, brother," answered Gudruda, "that the man who
 would call me wife should be named Ospakar the Niddering? When that
@@ -8963,7 +8963,7 @@ came and went.
 Swanhild drew near, watching also, and she desired in her fierce heart
 to see Eric brought to shame and death, for, should he win, then
 Gudruda would be rid of Ospakar. Now by her side stood Gizur,
-Ospakar's son, and near to her was Björn. These two held their breath,
+Ospakar's son, and near to her was BjÃ¶rn. These two held their breath,
 for, if Eric conquered, all their plans were brought to nothing.
 
 Even as he sprang into the air, Eric smote down with all his strength.
@@ -8974,9 +8974,9 @@ staggered back four paces beneath it, then fell upon the ground.
 
 Now folk raised a shout of "/Eric! Eric!/" for it seemed that Ospakar
 was sped. Brighteyes, too, cried aloud, then rushed forward. Now, as
-he came, Swanhild whispered an eager word into the ear of Björn. By
-Björn's foot lay that half of Eric's shield which had been shorn away
-by the sword of Ospakar. Gudruda, watching, saw Björn push it with his
+he came, Swanhild whispered an eager word into the ear of BjÃ¶rn. By
+BjÃ¶rn's foot lay that half of Eric's shield which had been shorn away
+by the sword of Ospakar. Gudruda, watching, saw BjÃ¶rn push it with his
 shoe so that it slid before the feet of Brighteyes. His right foot
 caught on it, he stumbled heavily--stumbled again, then fell prone on
 his face, and, as he fell, stretched out his sword hand to save
@@ -9013,7 +9013,7 @@ blazing in Ospakar's hand.
 Gudruda's cheek grew white with fear, and for a moment Eric's heart
 failed him.
 
-"Fly not!" roared Skallagrim. "Björn tripped thee. Yet hast thou half
+"Fly not!" roared Skallagrim. "BjÃ¶rn tripped thee. Yet hast thou half
 a shield!"
 
 Ospakar rushed on, and Whitefire flickered over Eric's helm. Down it
@@ -9068,19 +9068,19 @@ south!"
 Now Swanhild grew wild, for she saw that Eric was about to take
 Gudruda in his arms and kiss her before all men.
 
-"Say, Björn," she cried; "wilt thou suffer that this outlaw, having
+"Say, BjÃ¶rn," she cried; "wilt thou suffer that this outlaw, having
 slain Ospakar, should lead Gudruda hence as wife?"
 
-"He shall never do so while I live," cried Björn, nearly mad with
+"He shall never do so while I live," cried BjÃ¶rn, nearly mad with
 rage. "This is my command, sister: that thou dost see Eric no more."
 
-"Say, Björn," answered Gudruda, "did I dream, or did I indeed see thee
+"Say, BjÃ¶rn," answered Gudruda, "did I dream, or did I indeed see thee
 thrust the broken buckler before Eric's feet, so that he stumbled on
 it and fell?"
 
 "That thou sawest, lady," said Skallagrim; "for I saw it also."
 
-Now Björn grew white in his anger. He did not answer Gudruda, but
+Now BjÃ¶rn grew white in his anger. He did not answer Gudruda, but
 called aloud to his men to slay Eric and Skallagrim. Gizur called also
 to the folk of Ospakar, and Swanhild to those who came with her.
 
@@ -9090,19 +9090,19 @@ But Eric cried aloud also: "Ye who love me, cleave to me. Suffer it
 not that Brighteyes be cut down of northerners and outland men. Hear
 me, Atli's folk; hear me, carles of Coldback and of Middalhof!"
 
-And so greatly did many love Eric that half of the thralls of Björn,
+And so greatly did many love Eric that half of the thralls of BjÃ¶rn,
 and almost all of the company of Swanhild who had been Atli's shield-
 men and Brighteyes' comrades, drew swords, shouting "Eric! Eric!" But
 the carles of Ospakar came on to make an end of him.
 
-Björn saw, and, drawing sword, smote at Brighteyes, taking him
+BjÃ¶rn saw, and, drawing sword, smote at Brighteyes, taking him
 unawares. But Skallagrim caught the blow upon his axe, and before
-Björn could smite again Whitefire was aloft and down fell Björn, dead!
+BjÃ¶rn could smite again Whitefire was aloft and down fell BjÃ¶rn, dead!
 
-That was the end of Björn, Asmund's son.
+That was the end of BjÃ¶rn, Asmund's son.
 
 "Thou hast squeaked thy last, rat! What did I tell thee?" cried
-Skallagrim. "Take Björn's shield and back to back, lord, for here come
+Skallagrim. "Take BjÃ¶rn's shield and back to back, lord, for here come
 foes."
 
 "There goes one," answered Eric, pointing to the door.
@@ -9126,7 +9126,7 @@ those who pressed behind, took one step rearwards. Thus, a foe for
 every step, they won their way down the long hall. Fierce raged the
 fray around them, for, made with hate and drink and the lust of fight,
 Swanhild's folk--Eric's friends--remembering the words of Atli, fell
-on Ospakar's; and the people of Björn fell on each other, brother on
+on Ospakar's; and the people of BjÃ¶rn fell on each other, brother on
 brother, and father on son--nor might the fray be stayed. The boards
 were overthrown, dead men lay among the meats and mead, and the blood
 of freeman, lord and thrall ran adown the floor. Everywhere through
@@ -9162,7 +9162,7 @@ wail aloud.
 "To horse!" cried Skallagrim; "to horse, ere our luck fail us!"
 
 "There is no luck in this," gasped Eric; "for I have slain many men,
-and among them is Björn, the brother of her whom I would make my
+and among them is BjÃ¶rn, the brother of her whom I would make my
 bride."
 
 "Better one such fight than many brides," said Skallagrim, shaking his
@@ -9208,9 +9208,9 @@ came back to them.
 
 Then Eric spoke. "Comrades," he said, "I am an outlawed man, and,
 though I have not sought it, much blood is on my head. Atli is dead at
-my hand; Ospakar is dead at my hand; Björn the Priest, Asmund's son,
+my hand; Ospakar is dead at my hand; BjÃ¶rn the Priest, Asmund's son,
 is dead at my hand, and with them many another man. Nor may the matter
-stay here, for Gizur, Blacktooth's son, yet lives, and Björn has kin
+stay here, for Gizur, Blacktooth's son, yet lives, and BjÃ¶rn has kin
 in the south, and Swanhild will buy friends with gold, and all of
 these will set on me to slay me, so that at the last I die by the
 sword."
@@ -9287,14 +9287,14 @@ death is on thy head!"
 Swanhild laughed aloud. "I think it a merry sight," she cried. "The
 marriage-feast of Asmund our father was red, and thy marriage-feast,
 Gudruda, has been redder. Would that thy blood and the blood of Eric
-ran with the blood of Björn and Ospakar! That tale must yet be told,
+ran with the blood of BjÃ¶rn and Ospakar! That tale must yet be told,
 Gudruda. There shall be binding on of Hell-shoes at Middalhof, but I
 bind them not. My task is still to come: for I will live to fasten the
 Hell-shoes on the feet of Eric, and on thy feet, Gudruda! At the
 least, I have brought about this much, that thou canst scarcely wed
-Eric the outlaw: for with his own hand he slew Björn our brother, and
+Eric the outlaw: for with his own hand he slew BjÃ¶rn our brother, and
 because of this I count all that death as nothing. Thou canst not mate
-with Brighteyes, lest the wide wounds of Björn thy brother should take
+with Brighteyes, lest the wide wounds of BjÃ¶rn thy brother should take
 tongues and cry thy shame from sea to sea!"
 
 Gudruda made no answer, but sat as one carved in stone. Then Swanhild
@@ -9302,7 +9302,7 @@ spoke again:
 
 "Let us away to the north, Gizur; there to gather strength to make an
 end of Eric. Say, wilt thou help us, Gudruda? The blood-feud for the
-death of Björn is thine."
+death of BjÃ¶rn is thine."
 
 "Ye are enough to bring about the fall of one unfriended man," Gudruda
 said. "Go, and leave me with my sorrow and the dead. Nay! before thou
@@ -9347,10 +9347,10 @@ silver summer midnight, looking on the slain who were strewn about the
 great hall. All night she sat alone in the bride's seat thinking--ever
 thinking.
 
-How, then, would it end? There her brother Björn lay a-cold--Björn the
+How, then, would it end? There her brother BjÃ¶rn lay a-cold--BjÃ¶rn the
 justly slain of Brighteyes; yet how could she wed the man who slew her
 brother? From Ospakar she was divorced by death; from Eric she was
-divorced by the blood of Björn her brother! How might she unravel this
+divorced by the blood of BjÃ¶rn her brother! How might she unravel this
 tangled skein and float to weal upon this sea of death? All things
 went amiss! The doom was on her! She had lived to an ill purpose--her
 love had wrought evil! What availed it to have been born to be fair
@@ -9424,11 +9424,11 @@ was coming, he learned that Gizur and Swanhild had moved down to
 Coldback, and with them a great company of men who were sworn to slay
 him. He asked if Gudruda the Fair had also gathered men for his
 slaying. They told him no; that Gudruda stayed with her thralls and
-women at Middalhof, mourning for Björn her brother. From these tidings
+women at Middalhof, mourning for BjÃ¶rn her brother. From these tidings
 Eric took some heart of hope: at the least Gudruda laid no blood-feud
 against him. For he waited, thinking, if indeed she yet loved him,
 that Gudruda would send him some word or token of her love. But no
-word came, since between them ran the blood of Björn. On the morrow of
+word came, since between them ran the blood of BjÃ¶rn. On the morrow of
 these tidings Skallagrim spoke to Eric.
 
 "This is my counsel, lord," he said, "that we ride out by night and
@@ -9535,7 +9535,7 @@ be in danger--I would say that, then shall ill things be told of me,
 because I am found with him who slew my brother?"
 
 "I slew Ospakar too, Gudruda. Surely the death of him by whose side
-thou didst sit as wife is more to thee than the death of Björn?"
+thou didst sit as wife is more to thee than the death of BjÃ¶rn?"
 
 "The bride-cup was not yet drunk, Eric; therefore I have no blood-feud
 for Ospakar."
@@ -9568,7 +9568,7 @@ through the screen of rushes and sat down in a grassy place beyond,
 and spoke again.
 
 "Nay, sit not near me; sit yonder. I would not touch thee, nor look
-upon thee, who wast Swanhild's love, and didst slay Björn my brother."
+upon thee, who wast Swanhild's love, and didst slay BjÃ¶rn my brother."
 
 "Say, Gudruda," said Eric, "did I not tell thee of the magic arts of
 Swanhild? Did I not tell thee before all men yonder in the hall, and
@@ -9582,15 +9582,15 @@ wicked guile has brought these sorrows on us?"
 
 But Gudruda did not answer.
 
-"And for this matter of the death of Björn at my hands, think,
-Gudruda: was I to blame in it? Did not Björn thrust the cloven shield
+"And for this matter of the death of BjÃ¶rn at my hands, think,
+Gudruda: was I to blame in it? Did not BjÃ¶rn thrust the cloven shield
 before my feet, and thus give me into the hand of Ospakar? Did he not
 afterwards smite at me from behind, and would he not have slain me if
 Skallagrim had not caught the blow? Was I, then, to blame if I smote
 back and if the sword flew home? Wilt thou let the needful deed rise
 up against our love? Speak, Gudruda!"
 
-"Talk no more of love to me, Eric," she answered; "the blood of Björn
+"Talk no more of love to me, Eric," she answered; "the blood of BjÃ¶rn
 has blotted out our love: it cries to me for vengeance. How may I
 speak of love with him who slew my brother? Listen!" she went on,
 looking on him sidelong, as one who wished to look and yet not seem to
@@ -9671,7 +9671,7 @@ his arms and swept her to his breast. Soft and sweet he kissed her,
 again and yet again, and she struggled not, though she wept a little.
 
 "It is small blame to me," she whispered, "if thou dost hold me on thy
-breast and kiss me, for thou art more strong than I. Björn must know
+breast and kiss me, for thou art more strong than I. BjÃ¶rn must know
 this if his dead eyes see aught. Yet for thee, Eric, it is the
 greatest shame of all thy shames."
 
@@ -9686,7 +9686,7 @@ her, though unwillingly.
 
 "Hearken," she went on, hiding her fair face in her hands: "it is true
 that for life and death I love thee now as ever--how much thou mayest
-never know. Though Björn be dead at thy hands, yet I love thee; but
+never know. Though BjÃ¶rn be dead at thy hands, yet I love thee; but
 how I may wed thee and not win the greatest shame, that I know not. I
 am sure of one thing, that we may not bide here in Iceland. Now if,
 indeed, thou lovest me, listen to my rede. Get thee back to Mosfell,
@@ -9732,7 +9732,7 @@ Brighteyes' own words. "Why not sail now and make an end?"
 
 "Gudruda has no ship and it is late to take the sea. Also I think that
 she would let a time go by because of the blood-feud which she has
-against me for the death of Björn."
+against me for the death of BjÃ¶rn."
 
 "I would rather risk these things than stay the winter through in
 Iceland," said Skallagrim, "it is long from now to spring, and yon
@@ -11040,7 +11040,7 @@ time. Still, when I saw those dark eyes of hers--just such eyes as
 Swanhild's!--I knew her for a witch, as all Finn women are. It is an
 evil world: my husband is dead by the sword; dead are both my sons,
 fighting for Eric; dead is Unna, Thorod's daughter; Asmund, my lord,
-is dead, and dead is Björn; and now Gudruda the Fair, whom I have
+is dead, and dead is BjÃ¶rn; and now Gudruda the Fair, whom I have
 rocked to sleep, leaves us to go over sea. I may not go with her, for
 my daughter's sake; yet I almost wish that I too were dead."
 
